@@ -1,0 +1,43 @@
+
+{
+  "navbar": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetler",
+    "pricing": "Fiyatlandırma",
+    "portfolio": "Portfolyo",
+    "process": "Sürecimiz",
+    "contact": "İletişim",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "greeting_user": "Merhaba, {{name}}"
+  },
+  "languages": {
+    "en": "İngilizce",
+    "ka": "Gürcüce",
+    "ru": "Rusça",
+    "tr": "Türkçe",
+    "ar": "Arapça",
+    "zh": "Çince",
+    "az": "Azerice"
+  },
+  "footer": {
+    "description": "Güzel ve işlevsel yaşam alanları yaratmada ortağınız. Kaliteli işçilik, yenilikçi çözümler ve müşteri memnuniyeti en önemli önceliklerimizdir.",
+    "quickLinks": "Hızlı Bağlantılar",
+    "legal": "Yasal",
+    "privacyPolicy": "Gizlilik Politikası",
+    "termsOfService": "Hizmet Şartları",
+    "contactUs": "Bize Ulaşın",
+    "email": "info@renovateelite.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Tadilat Cad., Süit 100, Cityville, ST 54321",
+    "copyright": "© {{year}} RenovateElite. Tüm hakları saklıdır."
+  },
+  "homePage": {
+    "heroTitle": "Mekanınızı Dönüştürün, Hayatınızı Yükseltin",
+    "heroSubtitle": "Vizyonunuza ve bütçenize özel uzman tadilat hizmetleri. Hayalinizdeki evi birlikte inşa edelim."
+  }
+}
+  

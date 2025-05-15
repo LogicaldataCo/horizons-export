@@ -1,0 +1,43 @@
+
+{
+  "navbar": {
+    "home": "Home",
+    "services": "Services",
+    "pricing": "Pricing",
+    "portfolio": "Portfolio",
+    "process": "Our Process",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Log out",
+    "profile": "Profile",
+    "settings": "Settings",
+    "greeting_user": "Hello, {{name}}"
+  },
+  "languages": {
+    "en": "English",
+    "ka": "Georgian (ქართული)",
+    "ru": "Russian (Русский)",
+    "tr": "Turkish (Türkçe)",
+    "ar": "Arabic (العربية)",
+    "zh": "Chinese (中文)",
+    "az": "Azerbaijani (Azərbaycanca)"
+  },
+  "footer": {
+    "description": "Your partner in creating beautiful and functional living spaces. Quality craftsmanship, innovative solutions, and customer satisfaction are our top priorities.",
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "contactUs": "Contact Us",
+    "email": "info@renovateelite.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Renovation Ave, Suite 100, Cityville, ST 54321",
+    "copyright": "© {{year}} RenovateElite. All rights reserved."
+  },
+  "homePage": {
+    "heroTitle": "Transform Your Space, Elevate Your Life",
+    "heroSubtitle": "Expert renovation services tailored to your vision and budget. Let's build your dream home together."
+  }
+}
+  

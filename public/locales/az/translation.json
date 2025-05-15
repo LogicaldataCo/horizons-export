@@ -1,0 +1,43 @@
+
+{
+  "navbar": {
+    "home": "Əsas Səhifə",
+    "services": "Xidmətlər",
+    "pricing": "Qiymətlər",
+    "portfolio": "Portfolio",
+    "process": "Prosesimiz",
+    "contact": "Əlaqə",
+    "login": "Daxil Ol",
+    "signup": "Qeydiyyat",
+    "logout": "Çıxış",
+    "profile": "Profil",
+    "settings": "Parametrlər",
+    "greeting_user": "Salam, {{name}}"
+  },
+  "languages": {
+    "en": "İngilis dili",
+    "ka": "Gürcü dili",
+    "ru": "Rus dili",
+    "tr": "Türk dili",
+    "ar": "Ərəb dili",
+    "zh": "Çin dili",
+    "az": "Azərbaycan dili"
+  },
+  "footer": {
+    "description": "Gözəl və funksional yaşayış məkanlarının yaradılmasında tərəfdaşınız. Keyfiyyətli sənətkarlıq, innovativ həllər və müştəri məmnuniyyəti bizim əsas prioritetlərimizdir.",
+    "quickLinks": "Sürətli Keçidlər",
+    "legal": "Hüquqi",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "termsOfService": "Xidmət Şərtləri",
+    "contactUs": "Bizimlə Əlaqə",
+    "email": "info@renovateelite.com",
+    "phone": "+1 (555) 123-4567",
+    "address": "123 Təmir pr., Suite 100, Sitivil, ST 54321",
+    "copyright": "© {{year}} RenovateElite. Bütün hüquqlar qorunur."
+  },
+  "homePage": {
+    "heroTitle": "Məkanınızı Dəyişdirin, Həyatınızı Yüksəldin",
+    "heroSubtitle": "Görüşünüzə və büdcənizə uyğunlaşdırılmış ekspert təmir xidmətləri. Gəlin birlikdə xəyalınızdakı evi quraq."
+  }
+}
+  
